@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikongo19&label=Profile%20views&color=0e75b6&style=flat" alt="shikongo19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikongo19" alt="shikongo19" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikongo19" alt="shikongo19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,9 +26,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shikongo19"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shikongo19" /></a><a href="https://ko-fi.com/shikongo19"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shikongo19" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikongo19&show_icons=true&locale=en&layout=compact" alt="shikongo19" /></p><br>
+<div align = "center" margin = "10px">
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shikongo19&show_icons=true&locale=en" alt="shikongo19" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shikongo19&" alt="shikongo19" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikongo19&show_icons=true&locale=en&layout=compact" alt="shikongo19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikongo19&show_icons=true&locale=en" alt="shikongo19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikongo19&" alt="shikongo19" /></p>
